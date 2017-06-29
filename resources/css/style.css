@@ -40,7 +40,7 @@ a {
 	color: black;
 }
 
-.column {
+.content {
 	display: flex;
 	border: 1px solid black;
 }
@@ -54,6 +54,7 @@ a {
 .column.medium {
 	width: 300px;
 	border: 1px solid black;
+	display: block;
 }
 
 .column.small {
