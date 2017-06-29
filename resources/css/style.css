@@ -48,20 +48,15 @@ a {
 .column.large {
 	width: 630px;
 	border: 1px solid black;
-	display: flex;
-	height: auto;
+	display: block;
 }
 
 .column.medium {
 	width: 300px;
 	border: 1px solid black;
-	display: flex;
-	height: auto;
 }
 
 .column.small {
 	width: 240px;
 	border: 1px solid black;
-	display: flex;
-	height: auto;
 }
