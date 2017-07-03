@@ -7,12 +7,16 @@ header {
   align-items: center;
   justify-content: space-between;
   padding-bottom: 10px;
-  margin-top: 10px;
+  position: fixed;
+  width: 1665px;
+  z-index: 5;
+  background-color: white;
 }
 
 div {
 	display: block;
 }
+
 body {
 	margin: 0;
 }
